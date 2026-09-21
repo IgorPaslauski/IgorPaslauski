@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=header" alt="" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Igor+Paslauski;Desenvolvedor+C%23+%2F+Full+Stack;Iju%C3%AD+-+RS)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Igor+Paslauski;Desenvolvedor+C%23+%2F+Full+Stack;Iju%C3%AD+-+RS" alt="Igor Paslauski — desenvolvedor C# / Full Stack, Ijuí - RS" />
+</p>
 
 <p align="center">
   Desenvolvedor C# sênior. Ciência da Computação na UNIJUÍ.<br />
@@ -68,8 +70,8 @@ O que mais faço não é “criar tela”. É destravar o que trava operação.
 Cursando Ciência da Computação. Mentor em Startup Weekend. Estudo compiladores, programação paralela (CUDA/MPI), criptografia e IA local com .NET + Ollama — o tipo de coisa que depois volta para o trabalho: async, performance e sistema que continua no ar sem depender de API cara.
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorPaslauski&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Estatísticas do GitHub de Igor Paslauski" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPaslauski&amp;layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Linguagens mais usadas" />
+  <img width="49%" height="195px" src="https://github-readme-stats.shion.dev/api?username=IgorPaslauski&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Estatísticas do GitHub de Igor Paslauski" />
+  <img width="41%" height="195px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=IgorPaslauski&amp;layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Linguagens mais usadas" />
 </div>
 
 <p align="center">
