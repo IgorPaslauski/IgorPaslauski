@@ -1,11 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=header" alt="" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Igor+Paslauski;Desenvolvedor+C%23+%2F+Full+Stack;Iju%C3%AD+-+RS" alt="Igor Paslauski — desenvolvedor C# / Full Stack, Ijuí - RS" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Igor+Paslauski;Desenvolvedor+C%23+%2F+Full+Stack;Iju%C3%AD+-+RS" alt="Igor Paslauski, desenvolvedor C# / Full Stack, Ijuí - RS" />
 </p>
 
 <p align="center">
-  C# sênior · 5+ anos em ERP, fiscal e financeiro · aberto a conversa
+  Desenvolvedor C# sênior. 5+ anos em ERP, fiscal e financeiro.
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 
 **O que eu corrijo**
 
-- Obrigação acessória no prazo — Reinf, SPED, GIA, DIRF, DCTF, PAD (SOAP/REST)
-- Job de horas virando minutos (PAD; estoque entre filiais ~2h → ~3min)
-- SQL caro e base que não conversa — PostgreSQL, SQL Server, Sybase, Firebird
-- Legado no ar — Angular 6 → 15, Java EE/EJB, ExtJS, C#/.NET
+- Obrigações acessórias no prazo: Reinf, SPED, GIA, DIRF, DCTF e PAD (SOAP/REST)
+- Job que levava horas e passou a minutos (PAD; estoque entre filiais de umas 2h para uns 3 min)
+- SQL caro e base que não conversa: PostgreSQL, SQL Server, Sybase e Firebird
+- Legado no ar: Angular 6 para 15, Java EE/EJB, ExtJS e C#/.NET
 
 **Stack**
 
