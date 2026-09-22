@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  C# sênior · fiscal, contábil e financeiro · Ciência da Computação na UNIJUÍ
+  C# sênior · 5+ anos em ERP, fiscal e financeiro · aberto a conversa
 </p>
 
 <p align="center">
   <a href="https://paslauski.com.br/" target="_blank"><img src="https://img.shields.io/badge/site-paslauski.com.br-00bfbf?style=for-the-badge" alt="Site" /></a>
   <a href="https://www.linkedin.com/in/igor-paslauski-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/igor_paslauski/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+  <a href="https://wa.me/55997311689" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:igor.paslauski123@gmail.com"><img src="https://img.shields.io/badge/email-igor.paslauski123@gmail.com-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=00bfbf" alt="Email" /></a>
 </p>
 
