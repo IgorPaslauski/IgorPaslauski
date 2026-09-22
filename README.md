@@ -45,7 +45,7 @@
 </div>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Mapa 3D de contribuições no GitHub" />
+  <img src="https://raw.githubusercontent.com/IgorPaslauski/IgorPaslauski/main/profile-3d-contrib/profile-night-green.svg" alt="Mapa 3D de contribuições no GitHub" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=footer" alt="" />
