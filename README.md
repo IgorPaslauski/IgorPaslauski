@@ -21,6 +21,12 @@
 
 Mais de **5 anos** em ERP, com foco em **obrigações fiscais e financeiras**. Gosto de pegar o problema que ninguém quer (a consulta que trava, a rotina que leva horas, o sistema legado que não pode parar) e deixar rápido, estável e fácil de manter. Trabalho de ponta a ponta: banco de dados, APIs, integrações e telas.
 
+## 🔭 Atualmente
+
+- 🎓 Finalizando o TCC na UNIJUÍ, sobre migração semiautomática de monolitos .NET para monolitos modulares
+- 🥤 Evoluindo o [PuroSuco](https://github.com/IgorPaslauski/purosuco), minha linguagem de programação experimental
+- 🧾 Dia a dia: sistemas fiscais e financeiros em C#, SQL e Angular
+
 ## 🧰 O que eu resolvo
 
 | | Área | O que entrego |
@@ -76,7 +82,18 @@ Mais de **5 anos** em ERP, com foco em **obrigações fiscais e financeiras**. G
 
   <br /><br />
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorPaslauski&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade dos últimos 31 dias" />
+
+  <br /><br />
+
   <img src="https://raw.githubusercontent.com/IgorPaslauski/IgorPaslauski/main/profile-3d-contrib/profile-south-season-animate.svg" alt="Cidade 3D animada com as contribuições no GitHub" />
+
+  <br /><br />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorPaslauski/IgorPaslauski/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/IgorPaslauski/IgorPaslauski/output/github-snake.svg" alt="Cobrinha animada comendo as contribuições do GitHub" />
+  </picture>
 </div>
 
 ## 📬 Vamos conversar?
