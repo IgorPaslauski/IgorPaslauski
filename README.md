@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Igor%20Paslauski&fontSize=58&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Desenvolvedor%20C%23%20S%C3%AAnior%20%C2%B7%20Full%20Stack&descSize=20&descAlignY=64" alt="Igor Paslauski, Desenvolvedor C# Sênior e Full Stack" />
 
 <a href="https://github.com/IgorPaslauski">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00BFBF&center=true&vCenter=true&width=640&height=40&lines=ERP+%2B+fiscal+%2B+financeiro+no+dia+a+dia;Transformo+job+de+2+horas+em+3+minutos;Legado+no+ar%2C+c%C3%B3digo+novo+na+veia; Iju%C3%AD%2C+RS+%E2%80%A2+aberto+a+boas+conversas" alt="Frases animadas: ERP, fiscal e financeiro; job de 2 horas em 3 minutos; legado no ar; Ijuí, RS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00BFBF&center=true&vCenter=true&width=640&height=40&lines=ERP+%2B+fiscal+%2B+financeiro+no+dia+a+dia;Transformo+job+de+2+horas+em+3+minutos;Legado+no+ar%2C+c%C3%B3digo+novo+na+veia;Iju%C3%AD%2C+RS+%E2%80%A2+aberto+a+boas+conversas" alt="Frases animadas: ERP, fiscal e financeiro; job de 2 horas em 3 minutos; legado no ar; Ijuí, RS" />
 </a>
 
 <br />
