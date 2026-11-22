@@ -27,6 +27,15 @@ Mais de 5 anos desenvolvendo e mantendo sistemas de gestão (ERP) com foco em **
 | **Banco de dados** | Otimização de consultas e integração entre bases PostgreSQL, SQL Server, Sybase e Firebird |
 | **Modernização** | Migração de Angular 6 para 15, Java EE/EJB, ExtJS e C#/.NET, mantendo o sistema em produção |
 
+## Projetos em destaque
+
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [PuroSuco](https://github.com/IgorPaslauski/purosuco) | Linguagem de programação experimental com compilador próprio, gramática Tree-sitter e extensões de editor | C# · Tree-sitter |
+| [ONG ASA](https://github.com/IgorPaslauski/ong-asa) | Landing page e painel administrativo do Instituto A.S.A. (Associação Semeando o Amanhã) | TypeScript |
+| [LayoutPlus](https://github.com/IgorPaslauski/LayoutPlus) | Extensão que personaliza o layout do ChatGPT: largura da conversa, tipografia, blocos de código e tabelas | TypeScript |
+| [Portfólio](https://github.com/IgorPaslauski/portifolioIgor) | Site pessoal em [paslauski.com.br](https://paslauski.com.br/) | TypeScript |
+
 ## Tecnologias
 
 **Back-end** &nbsp;
